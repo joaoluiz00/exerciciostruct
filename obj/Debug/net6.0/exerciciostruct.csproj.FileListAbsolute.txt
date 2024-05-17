@@ -1,0 +1,15 @@
+C:\Users\aluno\Desktop\Struct\exerciciostruct\bin\Debug\net6.0\exerciciostruct.exe
+C:\Users\aluno\Desktop\Struct\exerciciostruct\bin\Debug\net6.0\exerciciostruct.deps.json
+C:\Users\aluno\Desktop\Struct\exerciciostruct\bin\Debug\net6.0\exerciciostruct.runtimeconfig.json
+C:\Users\aluno\Desktop\Struct\exerciciostruct\bin\Debug\net6.0\exerciciostruct.dll
+C:\Users\aluno\Desktop\Struct\exerciciostruct\bin\Debug\net6.0\exerciciostruct.pdb
+C:\Users\aluno\Desktop\Struct\exerciciostruct\obj\Debug\net6.0\exerciciostruct.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\Struct\exerciciostruct\obj\Debug\net6.0\exerciciostruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\Struct\exerciciostruct\obj\Debug\net6.0\exerciciostruct.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\Struct\exerciciostruct\obj\Debug\net6.0\exerciciostruct.AssemblyInfo.cs
+C:\Users\aluno\Desktop\Struct\exerciciostruct\obj\Debug\net6.0\exerciciostruct.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Struct\exerciciostruct\obj\Debug\net6.0\exerciciostruct.dll
+C:\Users\aluno\Desktop\Struct\exerciciostruct\obj\Debug\net6.0\refint\exerciciostruct.dll
+C:\Users\aluno\Desktop\Struct\exerciciostruct\obj\Debug\net6.0\exerciciostruct.pdb
+C:\Users\aluno\Desktop\Struct\exerciciostruct\obj\Debug\net6.0\exerciciostruct.genruntimeconfig.cache
+C:\Users\aluno\Desktop\Struct\exerciciostruct\obj\Debug\net6.0\ref\exerciciostruct.dll
