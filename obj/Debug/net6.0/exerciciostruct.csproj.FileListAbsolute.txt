@@ -13,3 +13,11 @@ C:\Users\aluno\Desktop\Struct\exerciciostruct\obj\Debug\net6.0\refint\exercicios
 C:\Users\aluno\Desktop\Struct\exerciciostruct\obj\Debug\net6.0\exerciciostruct.pdb
 C:\Users\aluno\Desktop\Struct\exerciciostruct\obj\Debug\net6.0\exerciciostruct.genruntimeconfig.cache
 C:\Users\aluno\Desktop\Struct\exerciciostruct\obj\Debug\net6.0\ref\exerciciostruct.dll
+C:\Users\jpcis\OneDrive\Documentos\GitHub\exerciciostruct\obj\Debug\net6.0\exerciciostruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpcis\OneDrive\Documentos\GitHub\exerciciostruct\obj\Debug\net6.0\exerciciostruct.AssemblyInfoInputs.cache
+C:\Users\jpcis\OneDrive\Documentos\GitHub\exerciciostruct\obj\Debug\net6.0\exerciciostruct.AssemblyInfo.cs
+C:\Users\jpcis\OneDrive\Documentos\GitHub\exerciciostruct\obj\Debug\net6.0\exerciciostruct.csproj.CoreCompileInputs.cache
+C:\Users\jpcis\OneDrive\Documentos\GitHub\exerciciostruct\obj\Debug\net6.0\exerciciostruct.sourcelink.json
+C:\Users\jpcis\OneDrive\Documentos\GitHub\exerciciostruct\obj\Debug\net6.0\exerciciostruct.dll
+C:\Users\jpcis\OneDrive\Documentos\GitHub\exerciciostruct\obj\Debug\net6.0\refint\exerciciostruct.dll
+C:\Users\jpcis\OneDrive\Documentos\GitHub\exerciciostruct\obj\Debug\net6.0\exerciciostruct.pdb
